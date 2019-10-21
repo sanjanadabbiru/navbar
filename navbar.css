@@ -32,7 +32,7 @@ li a {
 }
 /*Hover state for top level links*/
 li:hover a {
-    background: #19c589;
+    background: #a02323;
 }
 /*Style for dropdown links*/
 li:hover ul a {
